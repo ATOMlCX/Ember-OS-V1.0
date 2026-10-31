@@ -1,0 +1,6 @@
+{
+  "name": "Ember OS — Glassmorphic Desktop & Kernel Environment",
+  "description": "A production-grade macOS-inspired desktop operating system environment with an adaptive Dynamic Island status engine, simulated VFS & process scheduler kernel, and interactive glassmorphic system applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
